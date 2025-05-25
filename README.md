@@ -2,9 +2,12 @@
 
 A visual analytics dashboard built with **React** and **Tailwind CSS** to explore medical and hospital-related data through interactive pie charts and hierarchical tree graphs.
 
-![Home Page](![3](https://github.com/user-attachments/assets/85b4692e-f765-412a-930d-34f9f39de74f))
-![Pie Chart](![1](https://github.com/user-attachments/assets/961547dd-e93b-42fe-86a1-09dc5381dbf1))
-![Tree Graph](![2](https://github.com/user-attachments/assets/818f9cca-6f2f-456b-9ee8-2bcc91443184))
+![Home Page](https://github.com/user-attachments/assets/85b4692e-f765-412a-930d-34f9f39de74f)
+
+![Pie Chart](https://github.com/user-attachments/assets/961547dd-e93b-42fe-86a1-09dc5381dbf1)
+
+![Tree Graph](https://github.com/user-attachments/assets/818f9cca-6f2f-456b-9ee8-2bcc91443184)
+
 
 ---
 
